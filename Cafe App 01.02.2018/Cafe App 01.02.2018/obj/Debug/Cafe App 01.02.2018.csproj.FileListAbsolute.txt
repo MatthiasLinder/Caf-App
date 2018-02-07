@@ -1,0 +1,12 @@
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\obj\Debug\Cafe App 01.02.2018.csprojResolveAssemblyReference.cache
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\obj\Debug\Cafe_App_01._02._2018.ExitAndPayScreen.resources
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\obj\Debug\Cafe_App_01._02._2018.FirstScreen.resources
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\obj\Debug\Cafe_App_01._02._2018.PurchaseScreen.resources
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\obj\Debug\Cafe App 01.02.2018.csproj.GenerateResource.Cache
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\bin\Debug\Cafe App 01.02.2018.exe.config
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\bin\Debug\Cafe App 01.02.2018.exe
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\bin\Debug\Cafe App 01.02.2018.pdb
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\obj\Debug\Cafe_App_01._02._2018.Properties.Resources.resources
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\obj\Debug\Cafe App 01.02.2018.csproj.CoreCompileInputs.cache
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\obj\Debug\Cafe App 01.02.2018.exe
+c:\users\matth\source\repos\Cafe App 01.02.2018\Cafe App 01.02.2018\obj\Debug\Cafe App 01.02.2018.pdb
